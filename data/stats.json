@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T16:16:23+00:00",
+  "generated_at": "2026-10-06T17:22:39+00:00",
   "sources": [
     {
       "id": 2,
@@ -23,10 +23,10 @@
   "unified": {
     "stats": {
       "total": 3823,
-      "L1": 65,
+      "L1": 66,
       "L2": 27,
       "L3": 31,
-      "NONE": 3700
+      "NONE": 3699
     },
     "by_chapter": [
       {
@@ -200,16 +200,6 @@
         "urgent": false
       },
       {
-        "chapter_name": "Databases",
-        "total": 302,
-        "NONE": 290,
-        "L1": 9,
-        "L2": 1,
-        "L3": 2,
-        "pct_done": 4.0,
-        "urgent": false
-      },
-      {
         "chapter_name": "Operating System",
         "total": 343,
         "NONE": 329,
@@ -217,6 +207,16 @@
         "L2": 6,
         "L3": 1,
         "pct_done": 4.1,
+        "urgent": false
+      },
+      {
+        "chapter_name": "Databases",
+        "total": 302,
+        "NONE": 289,
+        "L1": 10,
+        "L2": 1,
+        "L3": 2,
+        "pct_done": 4.3,
         "urgent": false
       },
       {
@@ -254,12 +254,12 @@
       "current_streak": 1,
       "longest_streak": 3,
       "active_days": 14,
-      "total_marked": 91,
+      "total_marked": 92,
       "daily": [
         {
           "date": "2026-10-06",
-          "total": 7,
-          "L1": 6,
+          "total": 8,
+          "L1": 7,
           "L2": 1,
           "L3": 0
         },
@@ -505,10 +505,10 @@
       "question_count": 1435,
       "stats": {
         "total": 1435,
-        "L1": 16,
+        "L1": 17,
         "L2": 7,
         "L3": 3,
-        "NONE": 1409
+        "NONE": 1408
       },
       "by_chapter": [
         {
@@ -542,16 +542,6 @@
           "urgent": false
         },
         {
-          "chapter_name": "Databases",
-          "total": 302,
-          "NONE": 290,
-          "L1": 9,
-          "L2": 1,
-          "L3": 2,
-          "pct_done": 4.0,
-          "urgent": false
-        },
-        {
           "chapter_name": "Operating System",
           "total": 343,
           "NONE": 329,
@@ -560,18 +550,28 @@
           "L3": 1,
           "pct_done": 4.1,
           "urgent": false
+        },
+        {
+          "chapter_name": "Databases",
+          "total": 302,
+          "NONE": 289,
+          "L1": 10,
+          "L2": 1,
+          "L3": 2,
+          "pct_done": 4.3,
+          "urgent": false
         }
       ],
       "activity": {
         "current_streak": 1,
         "longest_streak": 1,
         "active_days": 4,
-        "total_marked": 26,
+        "total_marked": 27,
         "daily": [
           {
             "date": "2026-10-06",
-            "total": 7,
-            "L1": 6,
+            "total": 8,
+            "L1": 7,
             "L2": 1,
             "L3": 0
           },
