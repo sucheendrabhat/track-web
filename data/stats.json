@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T17:42:20+00:00",
+  "generated_at": "2026-10-06T17:44:42+00:00",
   "sources": [
     {
       "id": 2,
@@ -23,10 +23,10 @@
   "unified": {
     "stats": {
       "total": 3823,
-      "L1": 68,
-      "L2": 27,
+      "L1": 69,
+      "L2": 28,
       "L3": 32,
-      "NONE": 3696
+      "NONE": 3694
     },
     "by_chapter": [
       {
@@ -222,11 +222,11 @@
       {
         "chapter_name": "Databases",
         "total": 302,
-        "NONE": 286,
-        "L1": 12,
-        "L2": 1,
+        "NONE": 284,
+        "L1": 13,
+        "L2": 2,
         "L3": 3,
-        "pct_done": 5.3,
+        "pct_done": 6.0,
         "urgent": false
       },
       {
@@ -254,13 +254,13 @@
       "current_streak": 1,
       "longest_streak": 3,
       "active_days": 14,
-      "total_marked": 95,
+      "total_marked": 97,
       "daily": [
         {
           "date": "2026-10-06",
-          "total": 11,
-          "L1": 9,
-          "L2": 1,
+          "total": 13,
+          "L1": 10,
+          "L2": 2,
           "L3": 1
         },
         {
@@ -505,10 +505,10 @@
       "question_count": 1435,
       "stats": {
         "total": 1435,
-        "L1": 19,
-        "L2": 7,
+        "L1": 20,
+        "L2": 8,
         "L3": 4,
-        "NONE": 1405
+        "NONE": 1403
       },
       "by_chapter": [
         {
@@ -554,11 +554,11 @@
         {
           "chapter_name": "Databases",
           "total": 302,
-          "NONE": 286,
-          "L1": 12,
-          "L2": 1,
+          "NONE": 284,
+          "L1": 13,
+          "L2": 2,
           "L3": 3,
-          "pct_done": 5.3,
+          "pct_done": 6.0,
           "urgent": false
         }
       ],
@@ -566,13 +566,13 @@
         "current_streak": 1,
         "longest_streak": 1,
         "active_days": 4,
-        "total_marked": 30,
+        "total_marked": 32,
         "daily": [
           {
             "date": "2026-10-06",
-            "total": 11,
-            "L1": 9,
-            "L2": 1,
+            "total": 13,
+            "L1": 10,
+            "L2": 2,
             "L3": 1
           },
           {
