@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T20:12:59+00:00",
+  "generated_at": "2026-10-07T20:14:05+00:00",
   "sources": [
     {
       "id": 1,
@@ -31,8 +31,8 @@
       "total": 3823,
       "L1": 82,
       "L2": 32,
-      "L3": 39,
-      "NONE": 3670
+      "L3": 40,
+      "NONE": 3669
     },
     "by_chapter": [
       {
@@ -226,21 +226,21 @@
         "urgent": true
       },
       {
-        "chapter_name": "Databases",
-        "total": 302,
-        "NONE": 262,
-        "L1": 25,
-        "L2": 5,
-        "L3": 10,
-        "pct_done": 13.2,
-        "urgent": true
-      },
-      {
         "chapter_name": "Compiler Design",
         "total": 242,
         "NONE": 209,
         "L1": 13,
         "L2": 9,
+        "L3": 11,
+        "pct_done": 13.6,
+        "urgent": true
+      },
+      {
+        "chapter_name": "Databases",
+        "total": 302,
+        "NONE": 261,
+        "L1": 25,
+        "L2": 5,
         "L3": 11,
         "pct_done": 13.6,
         "urgent": true
@@ -260,14 +260,14 @@
       "current_streak": 3,
       "longest_streak": 3,
       "active_days": 16,
-      "total_marked": 127,
+      "total_marked": 128,
       "daily": [
         {
           "date": "2026-10-08",
-          "total": 22,
+          "total": 23,
           "L1": 13,
           "L2": 2,
-          "L3": 7
+          "L3": 8
         },
         {
           "date": "2026-10-07",
@@ -680,8 +680,8 @@
         "total": 1435,
         "L1": 33,
         "L2": 11,
-        "L3": 11,
-        "NONE": 1380
+        "L3": 12,
+        "NONE": 1379
       },
       "by_chapter": [
         {
@@ -727,11 +727,11 @@
         {
           "chapter_name": "Databases",
           "total": 302,
-          "NONE": 262,
+          "NONE": 261,
           "L1": 25,
           "L2": 5,
-          "L3": 10,
-          "pct_done": 13.2,
+          "L3": 11,
+          "pct_done": 13.6,
           "urgent": true
         }
       ],
@@ -739,14 +739,14 @@
         "current_streak": 1,
         "longest_streak": 1,
         "active_days": 5,
-        "total_marked": 56,
+        "total_marked": 57,
         "daily": [
           {
             "date": "2026-10-08",
-            "total": 17,
+            "total": 18,
             "L1": 10,
             "L2": 1,
-            "L3": 6
+            "L3": 7
           },
           {
             "date": "2026-10-06",
