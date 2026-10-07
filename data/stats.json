@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T20:21:07+00:00",
+  "generated_at": "2026-10-07T20:22:36+00:00",
   "sources": [
     {
       "id": 1,
@@ -29,10 +29,10 @@
   "unified": {
     "stats": {
       "total": 3823,
-      "L1": 82,
+      "L1": 83,
       "L2": 33,
       "L3": 40,
-      "NONE": 3668
+      "NONE": 3667
     },
     "by_chapter": [
       {
@@ -238,11 +238,11 @@
       {
         "chapter_name": "Databases",
         "total": 302,
-        "NONE": 260,
-        "L1": 25,
+        "NONE": 259,
+        "L1": 26,
         "L2": 6,
         "L3": 11,
-        "pct_done": 13.9,
+        "pct_done": 14.2,
         "urgent": true
       },
       {
@@ -260,12 +260,12 @@
       "current_streak": 3,
       "longest_streak": 3,
       "active_days": 16,
-      "total_marked": 129,
+      "total_marked": 130,
       "daily": [
         {
           "date": "2026-10-08",
-          "total": 24,
-          "L1": 13,
+          "total": 25,
+          "L1": 14,
           "L2": 3,
           "L3": 8
         },
@@ -678,10 +678,10 @@
       "question_count": 1435,
       "stats": {
         "total": 1435,
-        "L1": 33,
+        "L1": 34,
         "L2": 12,
         "L3": 12,
-        "NONE": 1378
+        "NONE": 1377
       },
       "by_chapter": [
         {
@@ -727,11 +727,11 @@
         {
           "chapter_name": "Databases",
           "total": 302,
-          "NONE": 260,
-          "L1": 25,
+          "NONE": 259,
+          "L1": 26,
           "L2": 6,
           "L3": 11,
-          "pct_done": 13.9,
+          "pct_done": 14.2,
           "urgent": true
         }
       ],
@@ -739,12 +739,12 @@
         "current_streak": 1,
         "longest_streak": 1,
         "active_days": 5,
-        "total_marked": 58,
+        "total_marked": 59,
         "daily": [
           {
             "date": "2026-10-08",
-            "total": 19,
-            "L1": 10,
+            "total": 20,
+            "L1": 11,
             "L2": 2,
             "L3": 7
           },
