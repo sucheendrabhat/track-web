@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T19:21:08+00:00",
+  "generated_at": "2026-10-07T19:21:52+00:00",
   "sources": [
     {
       "id": 1,
@@ -29,10 +29,10 @@
   "unified": {
     "stats": {
       "total": 3823,
-      "L1": 73,
+      "L1": 72,
       "L2": 31,
       "L3": 34,
-      "NONE": 3685
+      "NONE": 3686
     },
     "by_chapter": [
       {
@@ -188,11 +188,11 @@
       {
         "chapter_name": "Algorithms",
         "total": 358,
-        "NONE": 354,
-        "L1": 2,
+        "NONE": 355,
+        "L1": 1,
         "L2": 2,
         "L3": 0,
-        "pct_done": 1.1,
+        "pct_done": 0.8,
         "urgent": false
       },
       {
@@ -385,10 +385,10 @@
       "question_count": 1263,
       "stats": {
         "total": 1263,
-        "L1": 49,
+        "L1": 48,
         "L2": 21,
         "L3": 28,
-        "NONE": 1165
+        "NONE": 1166
       },
       "by_chapter": [
         {
@@ -414,11 +414,11 @@
         {
           "chapter_name": "Algorithms",
           "total": 358,
-          "NONE": 354,
-          "L1": 2,
+          "NONE": 355,
+          "L1": 1,
           "L2": 2,
           "L3": 0,
-          "pct_done": 1.1,
+          "pct_done": 0.8,
           "urgent": false
         },
         {
