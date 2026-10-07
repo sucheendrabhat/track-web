@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T19:09:29+00:00",
+  "generated_at": "2026-10-07T19:10:09+00:00",
   "sources": [
     {
       "id": 1,
@@ -29,10 +29,10 @@
   "unified": {
     "stats": {
       "total": 3823,
-      "L1": 73,
+      "L1": 74,
       "L2": 30,
       "L3": 34,
-      "NONE": 3686
+      "NONE": 3685
     },
     "by_chapter": [
       {
@@ -238,11 +238,11 @@
       {
         "chapter_name": "Compiler Design",
         "total": 242,
-        "NONE": 209,
-        "L1": 13,
+        "NONE": 208,
+        "L1": 14,
         "L2": 9,
         "L3": 11,
-        "pct_done": 13.6,
+        "pct_done": 14.0,
         "urgent": true
       },
       {
@@ -260,12 +260,12 @@
       "current_streak": 3,
       "longest_streak": 3,
       "active_days": 16,
-      "total_marked": 107,
+      "total_marked": 108,
       "daily": [
         {
           "date": "2026-10-08",
-          "total": 2,
-          "L1": 2,
+          "total": 3,
+          "L1": 3,
           "L2": 0,
           "L3": 0
         },
@@ -385,10 +385,10 @@
       "question_count": 1263,
       "stats": {
         "total": 1263,
-        "L1": 49,
+        "L1": 50,
         "L2": 20,
         "L3": 28,
-        "NONE": 1166
+        "NONE": 1165
       },
       "by_chapter": [
         {
@@ -434,11 +434,11 @@
         {
           "chapter_name": "Compiler Design",
           "total": 242,
-          "NONE": 209,
-          "L1": 13,
+          "NONE": 208,
+          "L1": 14,
           "L2": 9,
           "L3": 11,
-          "pct_done": 13.6,
+          "pct_done": 14.0,
           "urgent": true
         },
         {
@@ -456,12 +456,12 @@
         "current_streak": 1,
         "longest_streak": 2,
         "active_days": 10,
-        "total_marked": 65,
+        "total_marked": 66,
         "daily": [
           {
             "date": "2026-10-08",
-            "total": 1,
-            "L1": 1,
+            "total": 2,
+            "L1": 2,
             "L2": 0,
             "L3": 0
           },
