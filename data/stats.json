@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T19:12:48+00:00",
+  "generated_at": "2026-10-07T19:12:57+00:00",
   "sources": [
     {
       "id": 1,
@@ -31,8 +31,8 @@
       "total": 3823,
       "L1": 73,
       "L2": 31,
-      "L3": 35,
-      "NONE": 3684
+      "L3": 34,
+      "NONE": 3685
     },
     "by_chapter": [
       {
@@ -238,11 +238,11 @@
       {
         "chapter_name": "Compiler Design",
         "total": 242,
-        "NONE": 208,
+        "NONE": 209,
         "L1": 13,
         "L2": 9,
-        "L3": 12,
-        "pct_done": 14.0,
+        "L3": 11,
+        "pct_done": 13.6,
         "urgent": true
       },
       {
@@ -387,8 +387,8 @@
         "total": 1263,
         "L1": 49,
         "L2": 21,
-        "L3": 29,
-        "NONE": 1164
+        "L3": 28,
+        "NONE": 1165
       },
       "by_chapter": [
         {
@@ -434,11 +434,11 @@
         {
           "chapter_name": "Compiler Design",
           "total": 242,
-          "NONE": 208,
+          "NONE": 209,
           "L1": 13,
           "L2": 9,
-          "L3": 12,
-          "pct_done": 14.0,
+          "L3": 11,
+          "pct_done": 13.6,
           "urgent": true
         },
         {
