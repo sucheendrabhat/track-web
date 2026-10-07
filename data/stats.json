@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T19:10:15+00:00",
+  "generated_at": "2026-10-07T19:11:52+00:00",
   "sources": [
     {
       "id": 1,
@@ -30,9 +30,9 @@
     "stats": {
       "total": 3823,
       "L1": 73,
-      "L2": 30,
+      "L2": 31,
       "L3": 34,
-      "NONE": 3686
+      "NONE": 3685
     },
     "by_chapter": [
       {
@@ -188,11 +188,11 @@
       {
         "chapter_name": "Algorithms",
         "total": 358,
-        "NONE": 355,
+        "NONE": 354,
         "L1": 2,
-        "L2": 1,
+        "L2": 2,
         "L3": 0,
-        "pct_done": 0.8,
+        "pct_done": 1.1,
         "urgent": false
       },
       {
@@ -260,13 +260,13 @@
       "current_streak": 3,
       "longest_streak": 3,
       "active_days": 16,
-      "total_marked": 108,
+      "total_marked": 109,
       "daily": [
         {
           "date": "2026-10-08",
-          "total": 3,
+          "total": 4,
           "L1": 3,
-          "L2": 0,
+          "L2": 1,
           "L3": 0
         },
         {
@@ -386,9 +386,9 @@
       "stats": {
         "total": 1263,
         "L1": 49,
-        "L2": 20,
+        "L2": 21,
         "L3": 28,
-        "NONE": 1166
+        "NONE": 1165
       },
       "by_chapter": [
         {
@@ -414,11 +414,11 @@
         {
           "chapter_name": "Algorithms",
           "total": 358,
-          "NONE": 355,
+          "NONE": 354,
           "L1": 2,
-          "L2": 1,
+          "L2": 2,
           "L3": 0,
-          "pct_done": 0.8,
+          "pct_done": 1.1,
           "urgent": false
         },
         {
@@ -456,13 +456,13 @@
         "current_streak": 1,
         "longest_streak": 2,
         "active_days": 10,
-        "total_marked": 66,
+        "total_marked": 67,
         "daily": [
           {
             "date": "2026-10-08",
-            "total": 2,
+            "total": 3,
             "L1": 2,
-            "L2": 0,
+            "L2": 1,
             "L3": 0
           },
           {
