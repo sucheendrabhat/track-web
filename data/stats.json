@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T16:01:35+00:00",
+  "generated_at": "2026-10-19T01:46:54+00:00",
   "sources": [
     {
       "id": 1,
@@ -30,9 +30,9 @@
     "stats": {
       "total": 3823,
       "L1": 91,
-      "L2": 38,
+      "L2": 39,
       "L3": 41,
-      "NONE": 3653
+      "NONE": 3652
     },
     "by_chapter": [
       {
@@ -206,16 +206,6 @@
         "urgent": false
       },
       {
-        "chapter_name": "Operating System",
-        "total": 343,
-        "NONE": 328,
-        "L1": 8,
-        "L2": 6,
-        "L3": 1,
-        "pct_done": 4.4,
-        "urgent": false
-      },
-      {
         "chapter_name": "Programming and DS: Data Structures",
         "total": 238,
         "NONE": 227,
@@ -224,6 +214,16 @@
         "L3": 5,
         "pct_done": 4.6,
         "urgent": true
+      },
+      {
+        "chapter_name": "Operating System",
+        "total": 343,
+        "NONE": 327,
+        "L1": 8,
+        "L2": 7,
+        "L3": 1,
+        "pct_done": 4.7,
+        "urgent": false
       },
       {
         "chapter_name": "Compiler Design",
@@ -257,11 +257,18 @@
       }
     ],
     "activity": {
-      "current_streak": 0,
+      "current_streak": 1,
       "longest_streak": 3,
-      "active_days": 16,
-      "total_marked": 144,
+      "active_days": 17,
+      "total_marked": 145,
       "daily": [
+        {
+          "date": "2026-10-19",
+          "total": 1,
+          "L1": 0,
+          "L2": 1,
+          "L3": 0
+        },
         {
           "date": "2026-10-08",
           "total": 39,
@@ -381,7 +388,7 @@
     "1": {
       "filename": "filter1_volume2.pdf",
       "added_at": "2026-07-28T04:41:55+00:00",
-      "last_opened": "2026-10-16T16:01:32+00:00",
+      "last_opened": "2026-10-19T01:41:47+00:00",
       "question_count": 1263,
       "stats": {
         "total": 1263,
@@ -534,7 +541,7 @@
     "2": {
       "filename": "filter1_volume1.pdf",
       "added_at": "2026-07-28T08:16:29+00:00",
-      "last_opened": "2026-10-16T16:01:32+00:00",
+      "last_opened": "2026-10-19T01:41:48+00:00",
       "question_count": 1125,
       "stats": {
         "total": 1125,
@@ -674,14 +681,14 @@
     "3": {
       "filename": "filter1_volume3.pdf",
       "added_at": "2026-07-29T15:29:54+00:00",
-      "last_opened": "2026-10-16T16:01:31+00:00",
+      "last_opened": "2026-10-19T01:41:48+00:00",
       "question_count": 1435,
       "stats": {
         "total": 1435,
         "L1": 42,
-        "L2": 17,
+        "L2": 18,
         "L3": 13,
-        "NONE": 1363
+        "NONE": 1362
       },
       "by_chapter": [
         {
@@ -717,11 +724,11 @@
         {
           "chapter_name": "Operating System",
           "total": 343,
-          "NONE": 328,
+          "NONE": 327,
           "L1": 8,
-          "L2": 6,
+          "L2": 7,
           "L3": 1,
-          "pct_done": 4.4,
+          "pct_done": 4.7,
           "urgent": false
         },
         {
@@ -736,11 +743,18 @@
         }
       ],
       "activity": {
-        "current_streak": 0,
+        "current_streak": 1,
         "longest_streak": 1,
-        "active_days": 5,
-        "total_marked": 73,
+        "active_days": 6,
+        "total_marked": 74,
         "daily": [
+          {
+            "date": "2026-10-19",
+            "total": 1,
+            "L1": 0,
+            "L2": 1,
+            "L3": 0
+          },
           {
             "date": "2026-10-08",
             "total": 34,
