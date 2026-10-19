@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T01:46:54+00:00",
+  "generated_at": "2026-10-19T01:50:15+00:00",
   "sources": [
     {
       "id": 1,
@@ -29,10 +29,10 @@
   "unified": {
     "stats": {
       "total": 3823,
-      "L1": 91,
+      "L1": 92,
       "L2": 39,
       "L3": 41,
-      "NONE": 3652
+      "NONE": 3651
     },
     "by_chapter": [
       {
@@ -218,11 +218,11 @@
       {
         "chapter_name": "Operating System",
         "total": 343,
-        "NONE": 327,
-        "L1": 8,
+        "NONE": 326,
+        "L1": 9,
         "L2": 7,
         "L3": 1,
-        "pct_done": 4.7,
+        "pct_done": 5.0,
         "urgent": false
       },
       {
@@ -260,12 +260,12 @@
       "current_streak": 1,
       "longest_streak": 3,
       "active_days": 17,
-      "total_marked": 145,
+      "total_marked": 146,
       "daily": [
         {
           "date": "2026-10-19",
-          "total": 1,
-          "L1": 0,
+          "total": 2,
+          "L1": 1,
           "L2": 1,
           "L3": 0
         },
@@ -685,10 +685,10 @@
       "question_count": 1435,
       "stats": {
         "total": 1435,
-        "L1": 42,
+        "L1": 43,
         "L2": 18,
         "L3": 13,
-        "NONE": 1362
+        "NONE": 1361
       },
       "by_chapter": [
         {
@@ -724,11 +724,11 @@
         {
           "chapter_name": "Operating System",
           "total": 343,
-          "NONE": 327,
-          "L1": 8,
+          "NONE": 326,
+          "L1": 9,
           "L2": 7,
           "L3": 1,
-          "pct_done": 4.7,
+          "pct_done": 5.0,
           "urgent": false
         },
         {
@@ -746,12 +746,12 @@
         "current_streak": 1,
         "longest_streak": 1,
         "active_days": 6,
-        "total_marked": 74,
+        "total_marked": 75,
         "daily": [
           {
             "date": "2026-10-19",
-            "total": 1,
-            "L1": 0,
+            "total": 2,
+            "L1": 1,
             "L2": 1,
             "L3": 0
           },
